@@ -19,7 +19,7 @@ Note: Stock prices are non-linear by nature. This model does **not** capture vol
 |------|-------------|
 | `main.py` | Core script for data download, model training, and prediction plotting. |
 | `requirements.txt` | Python dependencies. |
-| `plot.png` (optional) | Saved output graph of Actual vs Predicted trend. |
+| `plot.png`| Saved output graph of Actual vs Predicted trend. |
 
 ## 🔧 Technologies Used
 - Python
